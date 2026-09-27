@@ -46,7 +46,7 @@ function InteriorHero() {
         <div className="hero-buttons">
 
           <a
-            href="/contact"
+            href="/interiors/contact"
             className="hero-primary"
           >
             Start Your Project
@@ -54,7 +54,7 @@ function InteriorHero() {
           </a>
 
           <a
-            href="/portfolio"
+            href="/interiors/portfolio"
             className="hero-secondary"
           >
             Explore Projects
