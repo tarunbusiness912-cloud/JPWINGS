@@ -1,0 +1,20 @@
+JP Wings Group — Integrated Client Demo
+===========================================
+
+This build combines:
+- Member 1: JP Wings Group homepage + Construction
+- Member 2: JP Wings Interiors
+
+Integration:
+- Interiors is available under /interiors
+- Interiors services under /interiors/services
+- Interior service details under /interiors/services/:serviceSlug
+- Portfolio under /interiors/portfolio
+- About under /interiors/about
+- Contact under /interiors/contact
+
+The real JP Wings logo is shared at:
+public/images/branding/jp-wings-logo.png
+
+Member 2's Interiors styling and content were preserved; only routing/navigation
+was adapted so the standalone Interiors project works inside the main application.
